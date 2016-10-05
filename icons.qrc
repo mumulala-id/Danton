@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/usr/share">
+      <file>danton/license.txt</file>
+      <file>danton/icons/danton.png</file>
+      <file>danton/icons/multimedia.png</file>
+      <file>danton/icons/mediainfo.png</file>
+      <file>danton/icons/audio.png</file>
+      <file>danton/icons/audiojoin.png</file>
+      <file>danton/icons/video.png</file>
+      <file>danton/icons/videojoin.png</file>
+      <file>danton/icons/mux.png</file>
+      <file>danton/icons/rename.png</file>
+      <file>danton/icons/images.png</file>
+      <file>danton/icons/cd.png</file>
+    </qresource>
+
+</RCC>
